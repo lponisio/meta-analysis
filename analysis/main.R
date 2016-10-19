@@ -1,7 +1,7 @@
 rm(list=ls())
 
 ## chage this to your working directory
-setwd('~/Dropbox/org_vs_conv/analysis/writeup/analysis')
+setwd('analysis')
 library(rjags)
 library(R2jags)
 library(runjags)
