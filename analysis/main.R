@@ -1,7 +1,7 @@
 rm(list=ls())
 
 ## chage this to your working directory
-setwd('analysis')
+setwd('meta-analysis/analysis')
 library(rjags)
 library(R2jags)
 library(runjags)
